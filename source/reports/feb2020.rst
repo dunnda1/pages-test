@@ -1,0 +1,17 @@
+February 2020
+=============
+.. start_include_label
+Here is a bunch of stuff I did in Feb.  I did more thigns.  They were related to what I did in Feb.
+
+I also did some other stuff.
+.. end_include_label
+
+Beginning of Feb
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Here is a bunch of stuff in early eb.  It's pretty Interesting.
+
+
+End of February
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Then we have section two (2).  Also very enlightening things that happened in late February.
