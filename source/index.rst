@@ -10,3 +10,6 @@ This is some example text.  It's abouve the toctree directive.
    End of Tour Reports <eotr>
 
    Other Random Things <rando>
+
+   :hidden:
+   include/Objectives1

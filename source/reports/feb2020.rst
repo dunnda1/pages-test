@@ -1,10 +1,10 @@
 February 2020
 =============
-.. start_include_label
+.. begin_intro_body
 Here is a bunch of stuff I did in Feb.  I did more thigns.  They were related to what I did in Feb.
 
 I also did some other stuff.
-.. end_include_label
+.. end_intro_body
 
 Beginning of Feb
 ^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -1,8 +1,8 @@
 March 2020
 =============
-.. start_include_label
+.. begin_intro_body
 
 Here is a bunch of stuff I did in March.  I did things.  They were intersting.
 
 I also did some other stuff, but not much because the world ended.
-.. end_include_label
+.. end_intro_body

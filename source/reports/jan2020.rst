@@ -1,12 +1,15 @@
-.. start_include_label
+.. begin_intro_body
 January 2020
 =============
 
-Here is a bunch of stuff I did in Jan.  I did things.  They were intersting.
+Here is a bunch of stuff I did in Jan.  I did things.  They were Interesting.
 
 I also did some other stuff.
 
-.. end_include_label
+.. end_intro_body
+
+.. include::  include/Objectives1
+
 
 Section 1
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -17,3 +20,7 @@ Here is a bunch of stuff in section one from Jan.  It's pretty Interesting.
 Section 2 
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 Then we have section two (2).  Also very enlightening things that happened in January.
+
+Miscellaneous 
+^^^^^^^^^^^^^^^^^^^^^^^^^
+This is the most read section of any report.  Most comments a related to something from here.  
